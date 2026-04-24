@@ -39,7 +39,9 @@ LSTM networks solve the vanishing gradient problem and capture long-term depende
   <img src="https://miro.medium.com/1*sf4vCzcyycSe7GC3dZ2u2w.png" width="500"/>
 </p>
 
+
 BiLSTM processes sequences in both forward and backward directions.
+
 ---
 
 ## Projects Included
