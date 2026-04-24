@@ -25,7 +25,7 @@ RNNs are designed for sequential data like time series and text.
 
 ### Long Short-Term Memory (LSTM)
 
-![LSTM Cell](https://upload.wikimedia.org/wikipedia/commons/3/3b/The_LSTM_cell.png)
+![LSTM Cell](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-43490-7_22/MediaObjects/542945_1_En_22_Fig2_HTML.png)
 
 LSTM networks solve the vanishing gradient problem and capture long-term dependencies.
 
@@ -33,7 +33,7 @@ LSTM networks solve the vanishing gradient problem and capture long-term depende
 
 ### Bidirectional LSTM (BiLSTM)
 
-![BiLSTM](https://miro.medium.com/v2/resize:fit:1400/1*4W1c4f7m6a8Lr5d1uW0Y3g.png)
+![BiLSTM](https://miro.medium.com/1*sf4vCzcyycSe7GC3dZ2u2w.png)
 
 BiLSTM processes sequences in both forward and backward directions.
 
