@@ -68,3 +68,19 @@ ImageDataGenerator(
 
 
 > Le dataset MNIST est téléchargé automatiquement via `tf.keras.datasets.mnist.load_data()`
+
+## Lancer le notebook
+
+```bash
+# Cloner le repo
+git clone https://github.com/AminaSaoud/Deep-Learning-Projects.git
+
+cd deep-learning-projects/CNN_Image_Preprocessing
+
+# Installer les dépendances
+pip install tensorflow numpy matplotlib
+
+# Lancer Jupyter
+jupyter notebook CNN_Image_Preprocessing.ipynb
+```
+
